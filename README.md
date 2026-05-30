@@ -1,3 +1,1 @@
-# homelab-test
-
-Repo de prueba mirror Gitea a GitHub
+# homelab-test\n\nMirror Gitea a GitHub funcionando correctamente.
